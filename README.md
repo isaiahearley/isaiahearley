@@ -21,9 +21,12 @@ Here are some ideas to get you started:
       <h2>Hi! My name is Isaiah and I'm an aspiring Full-Stack Software Engineer! 👋</h2> 
       <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"> 
         <div id="badges"> 
-         <a href="https://www.linkedin.com/in/bsian433/" target="_blank">
+         <a href="https://www.linkedin.com/in/bsian433/">
           <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Linkedin Badge">
-          </a>      
+         </a>      
+         <a href="https://www.instagram.com/bsian_/" alt="Instagram Badge">
+           <img src="https://img.shields.io/badge/-Instagram-ff69b4" alt="Instagram Badge">
+          </a>
         </div>
     </div>
       
