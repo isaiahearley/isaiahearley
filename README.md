@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   
   
 <main>
+  <!-- Intro Content -->
     <div id="header" align="center">
       <h4>isaiahearley</h4> 
       <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"> 
@@ -33,14 +34,19 @@ Here are some ideas to get you started:
         </div>
     </div>
   <hr>
+<!-- About Me -->
+  <div class="about-img" align="center">
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center"> 
+  </div>
     <h2>👨‍💻About Me:</h2> 
   <h4>Hi! My name is Isaiah and I'm an aspiring Full-Stack Software Engineer! 👋</h4> 
   <p>
     • 💻 I'm currently a Computer Science student contributing to front-end web applications<br>
     • ✈️ During my free time, I love to travel and read up on new technologies<br> 
     • 📬 You can reach me at my <a href="mailto:pokes135@gmail.com">personal email</a>
-    
   </p>
+<!-- Skills -->
+  
     
   </main>
   
