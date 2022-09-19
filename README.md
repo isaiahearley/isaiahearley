@@ -24,9 +24,12 @@ Here are some ideas to get you started:
          <a href="https://www.linkedin.com/in/bsian433/">
           <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Linkedin Badge">
          </a>      
-         <a href="https://www.instagram.com/bsian_/" alt="Instagram Badge">
+         <a href="https://www.instagram.com/bsian_/">
            <img src="https://img.shields.io/badge/-Instagram-ff69b4" alt="Instagram Badge">
           </a>
+         <a href="https://discord.gg/2xV8xPErST">
+           <img src="https://img.shields.io/badge/-Discord-blueviolet" alt="Discord Badge">
+         </a>
         </div>
     </div>
       
