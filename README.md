@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 <main>
     <div id="header" align="center">
-      <h2>Hi! My name is Isaiah and I'm an aspiring Full-Stack Software Engineer! 👋</h2> 
+      <h4>isaiahearley</h4> 
       <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"> 
         <div id="badges"> 
          <a href="https://www.linkedin.com/in/bsian433/">
@@ -32,8 +32,15 @@ Here are some ideas to get you started:
          </a>
         </div>
     </div>
-      
-  
+  <hr>
+    <h2>👨‍💻About Me:</h2> 
+  <h4>Hi! My name is Isaiah and I'm an aspiring Full-Stack Software Engineer! 👋</h4> 
+  <p>
+    • 💻 I'm currently a Computer Science student contributing to front-end web applications<br>
+    • ✈️ During my free time, I love to travel and read up on new technologies<br> 
+    • 📬 You can reach me at my <a href="mailto:pokes135@gmail.com">personal email</a>
+    
+  </p>
     
   </main>
   
