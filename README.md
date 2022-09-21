@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <!-- Intro Content -->
     <div id="header" align="center">
       <h4>isaiahearley</h4> 
-      <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"> 
+      <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="200"> 
         <div id="badges"> 
          <a href="https://www.linkedin.com/in/bsian433/">
           <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Linkedin Badge">
@@ -33,10 +33,6 @@ Here are some ideas to get you started:
     </div>
   <hr>
 <!-- About Me -->
-      <div class="about-img" align="center">
-        <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center"> 
-      </div>
-      <hr> 
         <h3>👨‍💻About Me:</h3> 
       <h4>Hi! My name is Isaiah and I'm an aspiring Full-Stack Software Engineer! 👋</h4> 
         <p>
@@ -58,11 +54,16 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50">
-   <img src="
   </p>
+  <hr>
 <!-- Currently learning --> 
-<h3>I'm currently exploring</h3>
-  
+<div id="exploring">
+<h3>I'm currently exploring 🪐🔭</h3>
+  <p> 
+    • HTML5 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="25"> and CSS3 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="25"> <br>
+    • Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25"> <br>
+    • Bootstrap <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="25">
+  </p>
     
   </main>
   
