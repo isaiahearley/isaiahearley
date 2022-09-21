@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <html>
-  
-  
 <main>
   <!-- Intro Content -->
     <div id="header" align="center">
@@ -62,6 +60,8 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50">
    <img src="
   </p>
+<!-- Currently learning --> 
+<h3>I'm currently exploring</h3>
   
     
   </main>
