@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <!-- Intro Content -->
     <div id="header" align="center">
       <h4>isaiahearley</h4> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahearley&theme=tokyonight">
-      <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="200"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahearley&layout=compact">
+      <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="140"> 
         <div id="badges"> 
          <a href="https://www.linkedin.com/in/bsian433/">
           <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Linkedin Badge">
