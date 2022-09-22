@@ -39,7 +39,7 @@ Here are some ideas to get you started:
         <p>
           • 💻 I'm currently a Computer Science student contributing to front-end web applications<br>
           • ✈️ During my free time, I love to travel and read up on new technologies<br> 
-          • 📬 You can reach me at my <a href="mailto:pokes135@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/bsian433/" target="_blank">LinkedIn</a>
+          • 📬 You can reach me at my <a href="mailto:pokes135@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/bsian433/">LinkedIn</a>
         </p>
       <hr>
 <!-- Skills -->
