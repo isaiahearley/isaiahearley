@@ -61,9 +61,7 @@ Here are some ideas to get you started:
 <div id="exploring">
 <h3>I'm currently exploring 🪐🔭</h3>
   <p> 
-    • CSS3 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="25"> <br>
     • Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25"> <br>
-    • Bootstrap <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="25">
   </p>
     
   </main>
