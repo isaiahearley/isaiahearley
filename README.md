@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <div id="exploring">
 <h3>I'm currently exploring 🪐🔭</h3>
   <p> 
-    • Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25"> <br>
+    • <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25"> Javascript <br>
   </p>
     
   </main>
