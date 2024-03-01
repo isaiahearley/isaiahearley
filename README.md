@@ -46,6 +46,8 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
   </p> 
   <h5>Tools</h5>
   <p>
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 <div id="exploring">
 <h3>I'm currently exploring 🪐🔭</h3>
   <p> 
-    • <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25"> Javascript <br>
+    • <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25"> Linux <br>
   </p>
     
   </main>
