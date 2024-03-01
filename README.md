@@ -48,12 +48,14 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50"> 
   </p> 
   <h5>Tools</h5>
   <p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50">
   </p>
   <hr>
 <!-- Currently learning --> 
