@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <h3>I'm currently exploring 🪐🔭</h3>
   <p> 
     • <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25"> Linux <br>
+    • <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask <br>
   </p>
     
   </main>
